@@ -7,6 +7,7 @@ var docs = [
   "cloud/basic-request",
   "cloud/api-urls",
   "cloud/api-headers",
+  "cloud/cspm/rate-limits",
   "cloud/api-time-range-model",
   "cloud/api-integration-config",
   "cloud/api-errors",
